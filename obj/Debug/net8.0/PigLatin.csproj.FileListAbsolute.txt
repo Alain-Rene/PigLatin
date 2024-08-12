@@ -1,0 +1,14 @@
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/bin/Debug/net8.0/PigLatin
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/bin/Debug/net8.0/PigLatin.deps.json
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/bin/Debug/net8.0/PigLatin.runtimeconfig.json
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/bin/Debug/net8.0/PigLatin.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/bin/Debug/net8.0/PigLatin.pdb
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/refint/PigLatin.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.pdb
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/PigLatin.genruntimeconfig.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture4/PigLatin/obj/Debug/net8.0/ref/PigLatin.dll
